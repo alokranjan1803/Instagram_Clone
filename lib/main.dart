@@ -26,11 +26,11 @@ void main() async {
     await Firebase.initializeApp(
 
       options: const FirebaseOptions(
-          apiKey: "AIzaSyCZ-xrXqD5D19Snauto-Fx_nLD7PLrBXGM",
-          appId: "1:106696086289:android:17b5e587ce92a6c56872b0",
-          messagingSenderId: "106696086289",
-          projectId: "intagram-clone-4499c",
-          storageBucket: "intagram-clone-4499c.appspot.com"
+          apiKey: "",
+          appId: "",
+          messagingSenderId: "",
+          projectId: "",
+          storageBucket: ""
 
       ),
     );
